@@ -9,7 +9,8 @@
   `npm start`
 
 
-#E-Commerese Home Page 
+#E-commerce Home page
+
 ![Ecomm Home](https://github.com/Ashish-21CS132/Postrez--Ecommerse-website/assets/98982437/9d0338c9-fd48-49c9-a92b-404ed81d3496)
 #Top-Sections
 ![Top-pick](https://github.com/Ashish-21CS132/Postrez--Ecommerse-website/assets/98982437/d7d9c2fb-df57-4f1e-a8d4-318fe25e5b89)
